@@ -1,9 +1,10 @@
 div.sidebar{
-  width: 20px;
-  float: left;
+  /*float: left;
+  width: 20%;*/
 }
-.rightpage{
+div.rightpage{
   float: right;
+  width: 70%;
 }
 div.sidebar li{
   display: inline;}
